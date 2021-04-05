@@ -28,7 +28,7 @@ In RF model, we evaluate in several metrics listed in below.
 |AUROC|0.9264|
 
 ROC curve:
-![ROC](/output_img/poc.png)
+![ROC](/output_img/roc.png)
 
 ## Result Explination
 ### Feature Importance
@@ -40,17 +40,13 @@ ROC curve:
 ### Patrial Dependency Plot
 Feature importance and permutation importance can only tell us which attribute is more important for model to predict. We cannot know this attribute increase or decrease the probability of having heart disease.
 chest_pain_type_typical_angina :
-
-![chest_pain_type_typical_angina](/output_img/pdp_chest_pain_type_typical_angina.png)
+<img src="/output_img/pdp_chest_pain_type_typical_angina.png" width="200">
 
 num_major_vessels :
-
-![num_major_vessels](/output_img/pdp_num_major_vessels.png)
+<img src="/output_img/pdp_num_major_vessels.png" width="200">
 
 thalassemia_fixed_defect :
-
-![thalassemia_fixed_defect](/output_img/pdp_thalassemia_fixed_defect.png)
+<img src="/output_img/pdp_thalassemia_fixed_defect.png" width="200">
 
 st_depression :
-
-![st_depression](/output_img/pdp_st_depression.png)
+<img src="/output_img/pdp_st_depression.png" width="200">
