@@ -35,7 +35,7 @@ ROC curve:<br />
 ![Feature Importance](/output_img/feature_importance.png)
 
 ### Permutation Importance
-![Permutation Importance](/output_img/permutation_importance.png)
+<img src="/output_img/output_img/permutation_importance.png" width="400">
 
 ### Patrial Dependency Plot
 Feature importance and permutation importance can only tell us which attribute is more important for model to predict. We cannot know this attribute increase or decrease the probability of having heart disease.
