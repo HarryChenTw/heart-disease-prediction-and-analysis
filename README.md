@@ -39,14 +39,14 @@ ROC curve:
 
 ### Patrial Dependency Plot
 Feature importance and permutation importance can only tell us which attribute is more important for model to predict. We cannot know this attribute increase or decrease the probability of having heart disease.
-chest_pain_type_typical_angina :
-<img src="/output_img/pdp_chest_pain_type_typical_angina.png" width="200">
+chest_pain_type_typical_angina :<br />
+<img src="/output_img/pdp_chest_pain_type_typical_angina.png" width="400">
 
-num_major_vessels :
-<img src="/output_img/pdp_num_major_vessels.png" width="200">
+num_major_vessels :<br />
+<img src="/output_img/pdp_num_major_vessels.png" width="400">
 
-thalassemia_fixed_defect :
-<img src="/output_img/pdp_thalassemia_fixed_defect.png" width="200">
+thalassemia_fixed_defect :<br />
+<img src="/output_img/pdp_thalassemia_fixed_defect.png" width="400">
 
-st_depression :
-<img src="/output_img/pdp_st_depression.png" width="200">
+st_depression :<br />
+<img src="/output_img/pdp_st_depression.png" width="400">
