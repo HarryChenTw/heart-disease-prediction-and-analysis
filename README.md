@@ -27,7 +27,7 @@ In RF model, we evaluate in several metrics listed in below.
 |Specificity|0.8857|
 |AUROC|0.9264|
 
-ROC curve:
+ROC curve:<br />
 ![ROC](/output_img/roc.png)
 
 ## Result Explination
