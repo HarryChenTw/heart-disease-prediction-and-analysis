@@ -1,4 +1,4 @@
-# Heart Disease Prediction and Analysis using Random Forest
+# Heart Disease Prediction and Analysis
 This is a simple prediction of heart disease using Machine Learning technique which is Random Forest here. Then we analysis each attribute to see which is more informative for model. Hope it can provide some information for further medical research.
 
 ## Data
