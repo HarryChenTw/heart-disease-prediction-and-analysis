@@ -3,10 +3,11 @@ This is a simple prediction of heart disease using Machine Learning technique wh
 
 ## Data
 Data is from [UCI](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) and they also published on [kaggle](https://www.kaggle.com/ronitf/heart-disease-uci). If you need more information about each attribute, you can check on those websites. 
-
+<br />
 ## Data Processing
 For some attribute that is not ordinal, such as chest_pain_type, rest_ecg, st_slope, thalassemia, the value in these columns indicate a specific type. So we transform these attributes into dummy attribute or called one-hot representation.
 Then we split to train and test set in ratio 0.8, 0.2
+<br />
 ## Model
 We've tried several models. The performance is in below table. As the RF yield the most accurate prediction, we pick RF as our analysis model.
 
@@ -29,7 +30,7 @@ In RF model, we evaluate in several metrics listed in below.
 
 ROC curve:<br />
 ![ROC](/output_img/roc.png)
-
+<br />
 ## Result Explination
 ### Feature Importance
 ![Feature Importance](/output_img/feature_importance.png)
