@@ -1,6 +1,8 @@
 # Heart Disease Prediction and Analysis
 This is a simple prediction of heart disease using Machine Learning technique which is Random Forest here. Then we analysis each attribute to see which is more informative for model. Hope it can provide some information for further medical research.
 <br /><br />
+Project are done in May 2020
+<br /><br />
 ## Data
 Data is from [UCI](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) and they also published on [kaggle](https://www.kaggle.com/ronitf/heart-disease-uci). If you need more information about each attribute, you can check on those websites. 
 <br /><br />
